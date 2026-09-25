@@ -70,7 +70,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Barcelona.
 
 ### Hacia dónde voy
 
-Mi objetivo es especializarme en **ciencia de datos y machine learning aplicados a mercados financieros**: predicción de precios, backtesting de estrategias y visualización de datos de mercado. Cada proyecto que añado aquí es un paso en esa dirección.
+Mi objetivo es especializarme en **análisis de datos y machine learning aplicados a mercados financieros**: predicción de precios, backtesting de estrategias y visualización de datos de mercado. Cada proyecto que añado aquí es un paso en esa dirección.
 
 ### Contacto
 
