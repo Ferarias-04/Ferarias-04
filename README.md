@@ -32,7 +32,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Barcelona.
 **Lenguajes**
 <br>
 <img src="https://img.shields.io/badge/Java-10223A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/Python-10223A?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Kotlin-10223A?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 <img src="https://img.shields.io/badge/JavaScript-10223A?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
 <img src="https://img.shields.io/badge/HTML5-10223A?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-10223A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -50,7 +50,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Barcelona.
 
 **Aprendiendo ahora**
 <br>
-<img src="https://img.shields.io/badge/Kotlin-2A3D57?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+<img src="https://img.shields.io/badge/Python-2A3D57?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Jetpack_Compose-2A3D57?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
 <img src="https://img.shields.io/badge/Spring_Boot-2A3D57?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
 
