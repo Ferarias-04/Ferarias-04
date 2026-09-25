@@ -16,8 +16,8 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Barcelona.
 |---|---|
 | **Formación** | CFGS DAM |
 | **Enfoque** | Desarrollo de software y análisis de datos |
-| **Objetivo** | Data science / ML en fintech |
-| **Idiomas** | Español, catalán |
+| **Objetivo** | Data Analitycs / ML en fintech |
+| **Idiomas** | Español, Inglés, Catalán |
 | **Ubicación** | Barcelona, España |
 
 </td>
