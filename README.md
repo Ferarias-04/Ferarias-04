@@ -22,7 +22,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Barcelona.
 
 </td>
 <td width="32%" align="center" valign="middle">
-  <img src="https://github.com/TU_USUARIO.png" alt="Fer" width="200" style="border-radius:50%">
+  <img src="https://github.com/Ferarias-04.png" alt="Fer" width="200" style="border-radius:50%">
 </td>
 </tr>
 </table>
