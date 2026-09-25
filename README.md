@@ -22,7 +22,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Barcelona.
 
 </td>
 <td width="32%" align="center" valign="middle">
-  <img src="./assets/sobre-mi.jpg" alt="Fer" width="200">
+  <img src="./assets/sobre-mi.JPG" alt="Fer" width="200">
 </td>
 </tr>
 </table>
