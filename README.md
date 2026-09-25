@@ -1,7 +1,7 @@
 <!-- Sustituye TU_USUARIO por tu nombre de usuario de GitHub en todo el archivo -->
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="Fer — desarrollo multiplataforma, rumbo a datos y mercados financieros" width="100%">
+  <img src="./assets/banner-en.svg" alt="Fer — multiplatform app developer, heading into data and financial markets" width="100%">
 </p>
 
 <table>
